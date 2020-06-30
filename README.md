@@ -1,1 +1,1 @@
-Selenium-based scrapper a youtube video. Users, comments (main and replies) and their likes and dislikes.  
+Selenium-based scrapper of a youtube video. Output: all comments (main and replies), user, number of likes and dislikes on each comment
